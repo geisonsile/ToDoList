@@ -9,4 +9,7 @@
     <string name="btn_new_task">Criar tarefa</string>
     <string name="label_tasks">Tarefas</string>
     <string name="label_add_task">Nova tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="label_dont_tasks">Ops! Você não possui \n nenhuma tarefa</string>
 </resources>
